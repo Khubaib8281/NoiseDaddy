@@ -73,7 +73,7 @@ You can swap `yes_daddy.wav` with any `.wav` file:
 
 ## License
 
-MIT License — use it, prank responsibly, and have fun!  
+Apache 2.0 License — use it, prank responsibly, and have fun!  
 
 ---
 
